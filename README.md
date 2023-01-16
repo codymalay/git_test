@@ -1,3 +1,3 @@
 # git_test
-My first GitHub repo with TOP /n
+My first GitHub repo with TOP  
 Hello Odin!
